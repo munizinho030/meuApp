@@ -1,0 +1,14 @@
+/home/pc-gustavo-2223106306/meuApp/bin/Debug/net8.0/meuApp
+/home/pc-gustavo-2223106306/meuApp/bin/Debug/net8.0/meuApp.deps.json
+/home/pc-gustavo-2223106306/meuApp/bin/Debug/net8.0/meuApp.runtimeconfig.json
+/home/pc-gustavo-2223106306/meuApp/bin/Debug/net8.0/meuApp.dll
+/home/pc-gustavo-2223106306/meuApp/bin/Debug/net8.0/meuApp.pdb
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfoInputs.cache
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.AssemblyInfo.cs
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.csproj.CoreCompileInputs.cache
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.dll
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/refint/meuApp.dll
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.pdb
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/meuApp.genruntimeconfig.cache
+/home/pc-gustavo-2223106306/meuApp/obj/Debug/net8.0/ref/meuApp.dll
